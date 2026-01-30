@@ -1,0 +1,7 @@
+package com.activity.tiendajuegos.models;
+
+public enum Genero {
+    RPG, PLATAFORMAS, ACCION, SANDBOX, AVENTURAS,
+    DEPORTES, TERROR, ESTRATEGIA, PUZZLE,
+    MULTIJUGADOR, NOVELA_VISUAL, METROIDVANIA
+}
